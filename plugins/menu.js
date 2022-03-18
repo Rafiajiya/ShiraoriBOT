@@ -37,7 +37,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     'adminban': 'Adminban',
     'internet': 'Internet',
     'anime': 'Anime',
-    'nsfw': `Nsfw ${global.opts['nsfw'] ? '' : '(Dinonaktifkan)'}`,
+    'nsfw': `Bokep ${global.opts['nsfw'] ? '' : '(Dinonaktifkan)'}`,
     'anonymous': 'Anonymous Chat',
     'nulis': 'MagerNulis & Logo',
     'downloader': 'Downloader',
@@ -94,7 +94,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   if (teks == 'anime') tags = {
     'anime': 'Anime'
   }
-  if (teks == 'nsfw') tags = {
+  if (teks == 'Bokep') tags = {
     'nsfw': `Nsfw ${global.opts['nsfw'] ? '' : '(Dinonaktifkan)'}`
   }
   if (teks == 'anonymous') tags = {
