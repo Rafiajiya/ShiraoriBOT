@@ -13,16 +13,16 @@ function pickRandom(list) {
 }
 
 global.shiraori = [
-'halo kak',
-'knp kak',
+'halo anjing',
+'knp Ngentod',
 'kak jalan yuk>_<',
-'jangan ganggu shiraori lagi sibuk',
+'jangan ganggu Raffi lagi sibuk',
 'bentar ewe dulu ama ilman',
-'Shiraori lagi makan',
-'Shiraori disini',
+'Raffi lagi Coly',
+'Raffi Botz disini',
 'Donasi dulu',
-'Shiraori pengen punya adik, tapi gk dibolehin ama ilman:(',
+'Raffi pengen punya adik, tapi gk dibolehin ama Evania:(',
 'bagi duit dulu/',
-'Silahkan ketik .menu ya kak',
+'Silahkan ketik .menu ya Anjing',
 'Shiraori istirahat dulu',
 ]
